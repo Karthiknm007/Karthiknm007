@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me**
 
 - 🎓 MCA Graduate
 - ☁️ Focused on AWS and Cloud Infrastructure
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 My Goal
+## 🎯 My Goal**
 
 To build strong practical skills in AWS and cloud infrastructure by
 learning through hands-on projects, solving real-world problems,
