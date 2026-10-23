@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 - 🎓 MCA Graduate
 - ☁️ Focused on AWS and Cloud Infrastructure
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 My Goal**
+<h2>🎯 My Goal</h2>
 
 To build strong practical skills in AWS and cloud infrastructure by
 learning through hands-on projects, solving real-world problems,
@@ -28,28 +28,28 @@ and continuously improving my technical knowledge.
 
 ---
 
-## 🛠️ Technologies & Tools
+<h3>🛠️ Technologies & Tools</h3>
 
-### ☁️ Cloud
+<h3>☁️ Cloud</h3>
 AWS
 
-### 🐧 Operating Systems
+<h3>🐧 Operating Systems</h3>
 Linux
 
-### 🐳 Containers
+<h3>🐳 Containers</h3>
 Docker
 
-### 🔧 Version Control
+<h3>🔧 Version Control</h3>
 Git • GitHub
 
-### ⚙️ Currently Learning
+<h3>⚙️ Currently Learning</h3>
 Kubernetes • Jenkins • Prometheus • Grafana
 
 ---
 
-## 🚀 Projects
+<h2>🚀 Projects</h2>
 
-### 🔀 Nginx Reverse Proxy on AWS
+<h3>🔀 Nginx Reverse Proxy on AWS</h3>
 Configured an Nginx reverse proxy architecture using AWS EC2 and Linux, with a separate application server and controlled network access.
 
 **Technologies:** AWS EC2 • Linux • Nginx
